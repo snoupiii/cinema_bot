@@ -5,10 +5,10 @@ import json
 import os
 import requests
 
-TELEGRAM_TOKEN = "5969274657:AAH42uGfGmMLxvPTtdaJA_MXswl6qe3riDg"
-CHANNEL_ID = "@songs_Shian"
-CHANNEL_URL = "https://t.me/+9xSLF5btETs0NmRi"
-API_TOKEN = "4ff3fd89-24ce-42fb-b8a4-ce352ee02181"
+TELEGRAM_TOKEN = ///
+CHANNEL_ID = ////
+CHANNEL_URL = ///
+API_TOKEN = ///
 
 headers = {
     'accept': 'application/json',
